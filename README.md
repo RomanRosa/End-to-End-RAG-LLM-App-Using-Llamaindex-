@@ -1,8 +1,12 @@
 ## End to end RAG LLM App Using Llamaindex and OpenAI: Indexing and Querying Multiple PDF's
 
+<div align="center">
+
 <a href="https://www.youtube.com/watch?v=hH4WkgILUD4">
   <img src="http://img.youtube.com/vi/hH4WkgILUD4/0.jpg" alt="End to end RAG LLM App Using Llamaindex and OpenAI: Indexing and Querying Multiple pdf's" width="400" />
 </a>
+
+</div>
 
 In this video, we will build an end to end Retrieve and Generate Language Model application using LlamaIndex and OpenAI. 
 
